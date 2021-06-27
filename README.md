@@ -1,2 +1,2 @@
 # InicioGit
-.
+Una descripcion
